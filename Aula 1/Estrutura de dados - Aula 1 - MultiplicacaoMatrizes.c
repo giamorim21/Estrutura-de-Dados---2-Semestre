@@ -9,7 +9,7 @@ int i = 0;
 int j = 0;
 int k = 0;
 
-// Funcao principal de xecucao do codigo //
+// Funcao principal de excucao do codigo //
 
 int main() {
     // Inicializacao da memoria //
