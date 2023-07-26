@@ -47,7 +47,7 @@ int main() {
     for (i = 0; i < 2; i++) {
         for (j = 0; j < 2; j++) {
             for (k = 0 ; k < 3; k++){
-                matrizResultado[i][j] += (matriz1[i][j] * matriz2[k][j]);
+                matrizResultado[i][j] += (matriz1[i][k] * matriz2[k][j]);
             }
         }
     }
